@@ -1,5 +1,17 @@
 # @browserbasehq/stagehand
 
+## 3.3.0
+
+### Minor Changes
+
+- [#1980](https://github.com/browserbase/stagehand/pull/1980) [`e471d2e`](https://github.com/browserbase/stagehand/commit/e471d2e89d41bac4e9b907ee9c0d7adc36828104) Thanks [@shrey150](https://github.com/shrey150)! - Support Browserbase verified session settings and bump the Browserbase SDK.
+
+### Patch Changes
+
+- [#1822](https://github.com/browserbase/stagehand/pull/1822) [`4fe9a72`](https://github.com/browserbase/stagehand/commit/4fe9a7200b8e86ce7f39cdb55e52a19de9afccb4) Thanks [@bbclanker](https://github.com/bbclanker)! - Restore public variable schema support and align Bedrock provider config validation coverage after the main-branch rebase.
+
+- [#1973](https://github.com/browserbase/stagehand/pull/1973) [`14b64ec`](https://github.com/browserbase/stagehand/commit/14b64ec7d226a3eb0ce1c19937f14581e61b7a85) Thanks [@monadoid](https://github.com/monadoid)! - Enable strict structured outputs for supported model paths.
+
 ## 3.2.1
 
 ### Patch Changes
